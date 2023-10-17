@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2513193888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1466708a95996b94de63d726a86a920
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/Music/bgm4.mp3
+- Assets/Audio/Music/bgm3.mp3
+- Assets/Audio/Music/bgm1.mp3
+- Assets/Audio/Music/ThemeSong.mp3
+- Assets/Audio/Music/bgm2.mp3
+- Assets/Audio/Music/bgm5.mp3
+Dependencies: []

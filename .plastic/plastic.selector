@@ -1,0 +1,4 @@
+repository "Plants vs Zombies@bigbigpenis@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

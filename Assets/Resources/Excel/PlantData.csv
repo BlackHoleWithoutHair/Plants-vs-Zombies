@@ -1,0 +1,6 @@
+﻿Type,MaxHp,AttackInterval,Damage,Spend,PlantCoolTime
+PeaShooter,300,1.5,20,100,7.5
+SunFlower,300,25,0,50,7.5
+CherryBomb,300,1000,1800,150,50
+WallNut,4000,1000,0,50,30
+PotatoMine,300,1000,1800,25,30

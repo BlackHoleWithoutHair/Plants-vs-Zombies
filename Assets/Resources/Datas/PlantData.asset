@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa774355d2c536f4a8063c80ced99370, type: 3}
+  m_Name: PlantData
+  m_EditorClassIdentifier: 
+  textAsset: {fileID: 4900000, guid: 6ae770a18a078ea48bc819019dfa08ad, type: 3}
+  PlantShareAttrs:
+  - MaxHp: 300
+    AttackInterval: 1.5
+    Damage: 20
+    Type: 2
+    Spend: 100
+    PlantCoolTime: 7.5
+  - MaxHp: 300
+    AttackInterval: 25
+    Damage: 0
+    Type: 1
+    Spend: 50
+    PlantCoolTime: 7.5
+  - MaxHp: 300
+    AttackInterval: 1000
+    Damage: 1800
+    Type: 3
+    Spend: 150
+    PlantCoolTime: 50
+  - MaxHp: 4000
+    AttackInterval: 1000
+    Damage: 0
+    Type: 4
+    Spend: 50
+    PlantCoolTime: 30
+  - MaxHp: 300
+    AttackInterval: 1000
+    Damage: 1800
+    Type: 5
+    Spend: 25
+    PlantCoolTime: 30

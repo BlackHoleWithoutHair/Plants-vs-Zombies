@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1937339563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a96651e0e9554a5b05328466e539fdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/Sound/hugewave.ogg
+- Assets/Audio/Sound/pause.ogg
+- Assets/Audio/Sound/shieldhit.ogg
+- Assets/Audio/Sound/chompsoft.ogg
+- Assets/Audio/Sound/doomshroom.ogg
+- Assets/Audio/Sound/cherrybomb.ogg
+- Assets/Audio/Sound/snow_pea_sparkles.ogg
+- Assets/Audio/Sound/finalwave.ogg
+- Assets/Audio/Sound/newspaper_rarrgh.ogg
+- Assets/Audio/Sound/groan.ogg
+- Assets/Audio/Sound/shovel.ogg
+- Assets/Audio/Sound/kernelpult2.ogg
+- Assets/Audio/Sound/lawnmower.ogg
+- Assets/Audio/Sound/plant.ogg
+- Assets/Audio/Sound/winmusic.ogg
+- Assets/Audio/Sound/losemusic.ogg
+- Assets/Audio/Sound/chomp.ogg
+- Assets/Audio/Sound/awooga.ogg
+- Assets/Audio/Sound/shoot.mp3
+- Assets/Audio/Sound/tap.ogg
+- Assets/Audio/Sound/frozen.ogg
+- Assets/Audio/Sound/seedlift.ogg
+- Assets/Audio/Sound/siren.ogg
+- Assets/Audio/Sound/bungee_scream.ogg
+- Assets/Audio/Sound/coffee.ogg
+- Assets/Audio/Sound/points.ogg
+- Assets/Audio/Sound/jalapeno.ogg
+- Assets/Audio/Sound/readysetplant.ogg
+- Assets/Audio/Sound/buttonclick.ogg
+- Assets/Audio/Sound/squash_hmm.ogg
+- Assets/Audio/Sound/potato_mine.ogg
+- Assets/Audio/Sound/newspaper_rip.ogg
+Dependencies: []
